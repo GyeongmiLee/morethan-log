@@ -11,12 +11,12 @@ class MyDocument extends Document {
             as="font"
             href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"
           />
-          {/* <link rel="icon" href="" /> */}
-          {/* <link
+          <link rel="icon" href="/dino.png" />
+          <link
             rel="apple-touch-icon"
             sizes="192x192"
-            href="/apple-touch-icon.png"
-          ></link> */}
+            href="/dino.png"
+          ></link>
           <link
             rel="alternate"
             type="application/rss+xml"
